@@ -27,3 +27,4 @@ Rewrite function Y
 Refactor core logic
 Remove unused imports
 Update dependencies
+Optimize loop
