@@ -24,3 +24,4 @@ Update configuration
 Update configuration
 Update API endpoint
 Rewrite function Y
+Refactor core logic
